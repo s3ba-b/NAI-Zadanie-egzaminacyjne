@@ -8,5 +8,5 @@ In source code - XML comments.
 https://machinelearningmastery.com/standard-machine-learning-datasets/
 ### Medical Cost Personal Datasets
 https://www.kaggle.com/mirichoi0218/insurance
-### Cancer Linear Regression Model Tutorial
-https://data.world/nrippner/cancer-linear-regression-model-tutorial
+### Abalone Data Set 
+https://code.datasciencedojo.com/datasciencedojo/datasets/tree/master/Abalone
