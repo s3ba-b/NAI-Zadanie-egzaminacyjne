@@ -12,7 +12,7 @@ regr = make_pipeline(StandardScaler(), SVR())
 regr.fit(X, y)
 
 # Perform regression on samples in X.
-predictions = regr.predict(X)
+print(regr.predict(X))
 
 # Return the coefficient of determination R^2 of the prediction.
-score = regr.score(X, y)
+print(regr.score(X, y))
